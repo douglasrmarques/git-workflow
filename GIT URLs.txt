@@ -2,3 +2,4 @@ GIT workflow
 - http://nvie.com/posts/a-successful-git-branching-model/
 - https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 - <TBD>
+- CM changes
